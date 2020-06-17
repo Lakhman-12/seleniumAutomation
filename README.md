@@ -1,2 +1,2 @@
 # seleniumAutomation
-this is my atomation through jenkins
+This is my Automation through jenkins
